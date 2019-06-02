@@ -1,6 +1,6 @@
 ## eslint-config-ts-lambdas
 
-> eslint config for `typescript-eslint` for Lambdas style.
+> config of `typescript-eslint` for Lambdas style.
 
 <br/>
 
