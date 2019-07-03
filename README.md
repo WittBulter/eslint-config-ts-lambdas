@@ -36,8 +36,8 @@
 
 ### Recommends
 
-  - [eslint-config-lambdas](https://github.com/WittBulter/eslint-config-lambdas)
-  - [tslint-config-lambdas](https://github.com/WittBulter/tslint-config-lambdas)
+  - [eslint-config-lambdas](https://github.com/unix/eslint-config-lambdas)
+  - [tslint-config-lambdas](https://github.com/unix/tslint-config-lambdas)
 
 <br/>
 
