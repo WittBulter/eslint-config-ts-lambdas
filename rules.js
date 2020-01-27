@@ -1,7 +1,11 @@
 module.exports = {
+// removed on v2.0.0
+// https://github.com/typescript-eslint/typescript-eslint/releases/tag/v2.0.0
+  '@typescript-eslint/no-triple-slash-reference': 'off',
+  
   '@typescript-eslint/adjacent-overload-signatures': 'error',
   '@typescript-eslint/no-var-requires': 'error',
-  '@typescript-eslint/array-type': ['error', 'array-simple'],
+  '@typescript-eslint/array-type': 'off',
   'camelcase': 'off',
   '@typescript-eslint/camelcase': ['error', { 'properties': 'always' }],
   '@typescript-eslint/class-name-casing': 'error',
@@ -31,7 +35,6 @@ module.exports = {
     },
   }],
   '@typescript-eslint/no-namespace': 'error',
-  '@typescript-eslint/no-triple-slash-reference': 'error',
   'no-unused-vars': 'off',
   '@typescript-eslint/no-unused-vars': 'warn',
   '@typescript-eslint/no-for-in-array': 'error',
