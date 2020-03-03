@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-ts-lambdas",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "main": "index.js",
   "description": "config of typescript-eslint for Lambdas style",
   "repository": "git@github.com:unix/eslint-config-ts-lambdas.git",
@@ -11,8 +11,8 @@
     "rules.js"
   ],
   "peerDependencies": {
-    "@typescript-eslint/eslint-plugin": "^1.6.0",
-    "@typescript-eslint/parser": "^1.6.0",
+    "@typescript-eslint/eslint-plugin": ">=1.6.0",
+    "@typescript-eslint/parser": ">=1.6.0",
     "typescript": ">3.1.0",
     "eslint": ">5.0.0"
   }
