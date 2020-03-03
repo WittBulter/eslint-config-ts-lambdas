@@ -9,7 +9,7 @@ module.exports = {
   'camelcase': 'off',
   '@typescript-eslint/camelcase': ['error', { 'properties': 'always' }],
   '@typescript-eslint/class-name-casing': 'error',
-  '@typescript-eslint/explicit-function-return-type': 'error',
+  '@typescript-eslint/explicit-function-return-type': 'off',
   '@typescript-eslint/ban-types': ['error', {
     'types': {
       'Result': 'Please use more semantic words instead of this type.',
