@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-ts-lambdas",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "main": "index.js",
   "description": "config of typescript-eslint for Lambdas style",
   "repository": "git@github.com:unix/eslint-config-ts-lambdas.git",
