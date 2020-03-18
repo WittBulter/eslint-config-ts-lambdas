@@ -24,6 +24,24 @@
 
 <br/>
 
+### For React
+
+```json
+{
+  "extends": [
+    "eslint-config-ts-lambdas",
+    "eslint-config-ts-lambdas/react"
+  ],
+  "parserOptions": {
+    "project": "./tsconfig.json"
+  }
+}
+
+```
+
+
+<br/>
+
 ### Why `typescript-eslint`
 
 - [TSLint and ESLint today](https://medium.com/palantir/tslint-in-2019-1a144c2317a9)
